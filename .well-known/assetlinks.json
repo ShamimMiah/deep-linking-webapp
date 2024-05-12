@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shamimmiah.learningriverpod",
+      "sha256_cert_fingerprints":
+      ["51:38:EE:5D:30:AE:86:E0:E7:5D:B0:42:C6:4F:03:03:3A:18:9C:21:3F:58:1F:0F:9C:5B:E7:9B:35:67:83:67"]
+    }
+  }]
